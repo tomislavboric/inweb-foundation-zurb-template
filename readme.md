@@ -1,8 +1,8 @@
 # ZURB Template
 
-**Please open all issues with this template on the main [Foundation for Sites](https://github.com/foundation/foundation-sites/issues) repo.**
+Maintained by Tomislav Borić (tomislav.boric@gmail.com)
 
-This is the official ZURB Template for use with [Foundation for Sites](https://get.foundation/sites/docs/). We use this template at ZURB to deliver static code to our clients. It has a Gulp-powered build system with these features:
+This is repo of the official ZURB Template for use with [Foundation for Sites](https://get.foundation/sites/docs/). We use this template at ZURB to deliver static code to our clients. It has a Gulp-powered build system with these features:
 
 - Handlebars HTML templates with Panini
 - Sass compilation and prefixing
